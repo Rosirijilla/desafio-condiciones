@@ -29,3 +29,13 @@ h1 {
     align-items: center;
     justify-content: center;
 }
+
+.links {
+    display: flex;
+    gap: 2rem;
+}
+
+a {
+    background-color: yellow;
+    font-size: 1.2rem;
+}
