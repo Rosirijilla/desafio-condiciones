@@ -8,11 +8,11 @@ document.querySelector("#ingresar").addEventListener("click", ()=>{
     let estado = document.querySelector("#estado");
 
     if(contraseña === "911"){
-        estado.innerHTML = "Password 1 Correcto."
+        estado.innerHTML = "Password 1 Correcto.";
     }else if(contraseña === "714") {
-        estado.innerHTML = "Password 2 Correcto."
+        estado.innerHTML = "Password 2 Correcto.";
     }else {
-        estado.innerHTML = "Password Incorrecto"
+        estado.innerHTML = "Password Incorrecto";
     }
 });
 

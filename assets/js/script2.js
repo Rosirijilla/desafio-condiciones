@@ -14,4 +14,4 @@ document.querySelector("#verificar").addEventListener("click", () => {
   }
 });
 
-alert("Puedes llevar un máximo de 10 stickers.")
+alert("Puedes llevar un máximo de 10 stickers.");
